@@ -1,0 +1,1 @@
+from .plan_tratar_temperatura import plano_tratar_temperatura

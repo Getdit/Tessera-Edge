@@ -1,0 +1,49 @@
+{
+    "version": "1.0.0",
+    "files": {
+        "ota_benchmark/dummy_250.py": {
+            "hash": "1fae7320dbdd75d8d36fa5f3617fdc7aa9ef5291989b6851ca3f7b2071ad20b1",
+            "size": 256000
+        },
+        "ota_benchmark/dummy_350.py": {
+            "hash": "3037bdbdcc676db66dba0d2c02cb9105361a360ae9b0948ef294f49fd86c0883",
+            "size": 358400
+        },
+        "ota_benchmark/dummy_100.py": {
+            "hash": "c3bfc7d2d0619aaca6fc8e2db4c4ff13059ce3c7f22c13bce512ece83362ed69",
+            "size": 102400
+        },
+        "ota_benchmark/dummy_150.py": {
+            "hash": "febb198e5676ab1fb6d1c9f61f946e69bf2a9c0b8ae9fb22d052786df383858f",
+            "size": 153600
+        },
+        "ota_benchmark/dummy_300.py": {
+            "hash": "4e015e8df8f6b66648c4d304d043fb1b6fbb51a57ba03e2ee1fb9b9034c3dd7e",
+            "size": 307200
+        },
+        "ota_benchmark/dummy_200.py": {
+            "hash": "dd7671e16ca3f8df7882124a66a7c29dffd8c6ce0259ddba167c3db40e0234bd",
+            "size": 204800
+        },
+        "ota_benchmark/file_generator.py": {
+            "hash": "b9dff63df8f693c054052a5331ec90b7aaac7dda5477e828979ab67071a6e03b",
+            "size": 1197
+        },
+        "ota_benchmark/dummy_50.py": {
+            "hash": "3031d04fa4ca07a7794b60b8eca58afc7cc7faea73b6d47352d526e906346d02",
+            "size": 51200
+        },
+        "ota_benchmark/dummy_0.py": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "ota_benchmark/dummy_1.py": {
+            "hash": "6ab72eeb9e77b07540897e0c8d6d23ec8eef0f8c3a47e1b3f4e93443d9536bed",
+            "size": 1024
+        },
+        "ota_benchmark/dummy_400.py": {
+            "hash": "8158bc768a9d832a3abb751ac7cbef1e3f1c438973822cf268527595c375b1ed",
+            "size": 409600
+        }
+    }
+}

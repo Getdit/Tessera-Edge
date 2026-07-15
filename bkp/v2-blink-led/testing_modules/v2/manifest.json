@@ -1,0 +1,21 @@
+{
+    "version": "1.0.0",
+    "files": {
+        "bdi1/bdi.py": {
+            "hash": "73027d2f4d0d7a2f6bd664ccf8d7e0f176e01de0fa3bc45aed63b21343f38725",
+            "size": 2638
+        },
+        "bdi1/__init__.py": {
+            "hash": "23c8aa70940539a20584c76aace783bb7d06a1cbe3b6822d12a102f09896a977",
+            "size": 26
+        },
+        "bdi2/bdi.py": {
+            "hash": "e4bf3574b043494f8453b5af0bf9373e265719e75606a396da157f62d35d430a",
+            "size": 2607
+        },
+        "bdi2/__init__.py": {
+            "hash": "23c8aa70940539a20584c76aace783bb7d06a1cbe3b6822d12a102f09896a977",
+            "size": 26
+        }
+    }
+}

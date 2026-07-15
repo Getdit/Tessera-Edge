@@ -1,0 +1,29 @@
+{
+    "version": "1.0.0",
+    "files": {
+        "sensor_dummy/__init__.py": {
+            "hash": "8e852e6a1d8b637eebc2c74021fb608647de299fac940a56bce1c9a260f0a81b",
+            "size": 38
+        },
+        "sensor_dummy/sensor_dummy.py": {
+            "hash": "b4cdef570c4be9d4d15757b49854aa185175e4366fc8b58f50416ff99f5a038a",
+            "size": 286
+        },
+        "updater/__init__.py": {
+            "hash": "7ff4378a4fbd6dba18f6ebb8a3d4327ff067b134d73c8143411da1f57517b882",
+            "size": 28
+        },
+        "updater/updater.py": {
+            "hash": "27cfab97cd9a8be60499af9ff30320be316a0fe92680c445356a88fa84f87d75",
+            "size": 508
+        },
+        "plan_tratar_temp/__init__.py": {
+            "hash": "c2cc6cf34721fc6c4047213dbe7ebef7c35f006f0269370cbf0ef0eb2ff8ff3c",
+            "size": 61
+        },
+        "plan_tratar_temp/plan_tratar_temperatura.py": {
+            "hash": "8895211c0771f9d8360c7bcb4cfaba96f9c7d2f1d4621b2a0f7de827b3539f87",
+            "size": 641
+        }
+    }
+}

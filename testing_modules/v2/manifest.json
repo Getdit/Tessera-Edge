@@ -1,0 +1,21 @@
+{
+    "version": "1.0.0",
+    "files": {
+        "led1/__init__.py": {
+            "hash": "98fdfbc715ca6ae2ef4d2dd64df8fabe679323c1116fa816d284dc4ba32801e3",
+            "size": 19
+        },
+        "led1/led.py": {
+            "hash": "c2ddfad052a695fb65ac9418a930426ace2af847e74bb114187bd2da68b77b0f",
+            "size": 433
+        },
+        "led2/__init__.py": {
+            "hash": "f079cfb40ea5f5c278c3246debc9cc8a952056629b3d3ce8f3318fc1761da8c1",
+            "size": 18
+        },
+        "led2/led.py": {
+            "hash": "110ae88001d696acc21e9bbf4a5c8a9c354550422719e790c035518f2f08873d",
+            "size": 433
+        }
+    }
+}
